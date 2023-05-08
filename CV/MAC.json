@@ -101,7 +101,23 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Figma",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
           "type": "technology"
         },
         {
@@ -110,6 +126,10 @@
         },
         {
           "name": "Spring",
+          "type": "technology"
+        },
+        {
+          "name": "UML",
           "type": "technology"
         }
       ],
