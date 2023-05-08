@@ -25,12 +25,28 @@
     "jobs": [
       {
         "organization": {
+          "name": "Restaurante Catering Trujillo "
+        },
+        "roles": [
+          {
+            "name": "Responsable de Stand ",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Servicios de camarero de Stand en IFEMA (Madrid), durante la feria Fruit Attraction 2022"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Full-time "
         },
         "roles": [
           {
             "name": "La Torre Artesana",
-            "startDate": "2023-02-02",
+            "startDate": "2022-02-01",
             "challenges": [
               {
                 "description": "Camarero"
@@ -46,7 +62,7 @@
         "roles": [
           {
             "name": "Ayudante de cocina",
-            "startDate": "2023-02-02",
+            "startDate": "2020-09-01",
             "challenges": [
               {
                 "description": "Ayudante de cocina"
@@ -57,31 +73,15 @@
       },
       {
         "organization": {
-          "name": "Sep 2020 - Present "
+          "name": "La Torre Artesana"
         },
         "roles": [
           {
             "name": "Camarero",
-            "startDate": "2023-02-02",
+            "startDate": "2020-09-01",
             "challenges": [
               {
                 "description": "Camarero"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Restaurante Catering Trujillo "
-        },
-        "roles": [
-          {
-            "name": "Responsable de Stand ",
-            "startDate": "2022-10-01",
-            "challenges": [
-              {
-                "description": "Servicios de camarero de Stand en IFEMA (Madrid), durante la feria Fruit Attraction 2022"
               }
             ]
           }
@@ -92,44 +92,32 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "French",
+        "name": "Italiano",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Italian",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Spanish",
+        "name": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Francés",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
+          "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
           "type": "technology"
         }
       },
@@ -153,7 +141,19 @@
       },
       {
         "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -177,13 +177,13 @@
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "HTML",
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -261,15 +261,15 @@
         "type": "technology"
       },
       {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
         "name": "MySQL",
         "type": "technology"
       },
       {
         "name": "Visual Studio Code",
-        "type": "technology"
-      },
-      {
-        "name": "HTML",
         "type": "technology"
       }
     ]
