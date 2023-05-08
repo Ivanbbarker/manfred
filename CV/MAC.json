@@ -140,7 +140,12 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer"
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Mobile Developer",
+        "Product Design (UI/UX)",
+        "Software Architect"
       ]
     },
     "status": "searchingActively"
