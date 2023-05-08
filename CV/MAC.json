@@ -1,0 +1,128 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ivan",
+      "surnames": "Cañas Carreton",
+      "title": "Desarrollador Junior Back-End Java con Springboot",
+      "description": "Me considero un joven con una gran habilidad para el trabajo en equipo 💻🔍 .Además, me considero un resolutor de problemas, capaz de encontrar soluciones eficaces y efectivas a los desafíos que se me presentan utilizando las tecnologías como Java, Spring o Python. ☕️🍃🐍",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ivanbbarker/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Full-time "
+        },
+        "roles": [
+          {
+            "name": "La Torre Artesana",
+            "startDate": "2023-02-02",
+            "challenges": [
+              {
+                "description": "Camarero"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sep 2020 - Present "
+        },
+        "roles": [
+          {
+            "name": "Ayudante de cocina",
+            "startDate": "2023-02-02",
+            "challenges": [
+              {
+                "description": "Ayudante de cocina"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sep 2020 - Present "
+        },
+        "roles": [
+          {
+            "name": "Camarero",
+            "startDate": "2023-02-02",
+            "challenges": [
+              {
+                "description": "Camarero"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Restaurante Catering Trujillo "
+        },
+        "roles": [
+          {
+            "name": "Responsable de Stand ",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Servicios de camarero de Stand en IFEMA (Madrid), durante la feria Fruit Attraction 2022"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/ivanbbarker/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
