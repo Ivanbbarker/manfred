@@ -225,6 +225,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
           "name": "CSS",
           "type": "technology"
         },
