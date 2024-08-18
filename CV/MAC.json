@@ -253,6 +253,10 @@
           "type": "technology"
         },
         {
+          "name": "RxJS",
+          "type": "technology"
+        },
+        {
           "name": "SQL",
           "type": "technology"
         },
