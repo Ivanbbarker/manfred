@@ -257,6 +257,10 @@
           "type": "technology"
         },
         {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
           "name": "UML",
           "type": "technology"
         }
