@@ -1,18 +1,15 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Ivan",
       "surnames": "Cañas Carreton",
       "title": "Desarrollador Junior Back-End Java con Springboot",
-      "description": "Me considero un joven con una gran habilidad para el trabajo en equipo 💻🔍 .Además, me considero un resolutor de problemas, capaz de encontrar soluciones eficaces y efectivas a los desafíos que se me presentan utilizando las tecnologías como Java, Spring o Python. ☕️🍃🐍",
-      "location": {
-        "notes": "Autocompleted using Google Maps API"
-      }
+      "description": "Me considero un joven con una gran habilidad para el trabajo en equipo 💻🔍 .Además, me considero un resolutor de problemas, capaz de encontrar soluciones eficaces y efectivas a los desafíos que se me presentan utilizando las tecnologías como Java, Spring o Python. ☕️🍃🐍"
     },
     "relevantLinks": [
       {
@@ -92,23 +89,39 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Inglés",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Italiano",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Español",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Francés",
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Eclipse",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Git",
@@ -123,7 +136,31 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -141,43 +178,7 @@
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Eclipse",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "UML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
           "type": "technology"
         }
       },
@@ -187,15 +188,38 @@
           "type": "technology"
         }
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento creativo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/ivanbbarker/"
+          "URL": "https://www.linkedin.com/in/ivanbbarker/",
+          "type": "linkedin"
         }
+      ],
+      "contactMails": [
+        "ivancarreton@gmail.com"
       ]
     },
     "preferences": {
@@ -213,11 +237,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "Python",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -250,18 +270,14 @@
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "JAVA",
-        "type": "technology"
-      },
-      {
-        "name": "Spring Boot",
-        "type": "technology"
-      },
-      {
         "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
         "type": "technology"
       },
       {
@@ -269,9 +285,14 @@
         "type": "technology"
       },
       {
+        "name": "Spring Boot",
+        "type": "technology"
+      },
+      {
         "name": "Visual Studio Code",
         "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "Como primer tabajo me gustaria afrontarme a grandes retos como resolucion de bugs o como asistente de proyectos en Java. Al tener conocimientos solidos tanto como en Java o como en HTML5 Y CSS3, podría aplicarlos en cualquier proyecto.\nMe encantaria formar equipo y poder aprender de nosotros mismos, y sobre todo resolver grandes problemas con alta funcionalidad y donde la creatividad sea clave."
   }
 }
