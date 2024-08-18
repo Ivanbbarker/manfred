@@ -229,6 +229,10 @@
           "type": "technology"
         },
         {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
           "name": "CSS",
           "type": "technology"
         },
